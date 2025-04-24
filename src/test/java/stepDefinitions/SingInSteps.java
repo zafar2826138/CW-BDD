@@ -8,7 +8,7 @@ import pages.pages.signIn.SignInPage;
 import utils.DriverHelper;
 
 
-public class SingIn {
+public class SingInSteps {
     WebDriver driver = DriverHelper.getDriver();
     SignInPage signInPage = new SignInPage(driver);
 

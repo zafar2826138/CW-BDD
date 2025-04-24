@@ -68,7 +68,7 @@
                         <include>**/*Steps.java</include>
                         <include>**/*Tests.java</include>
                         <include>**/*Test.java</include>
-                        <include>**/CucumberRunner.java</include>
+                        <include>**/*Runner.java</include>
                     </includes>
                 </configuration>
             </plugin>

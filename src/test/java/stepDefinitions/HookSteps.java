@@ -8,7 +8,7 @@ import utils.BrowserUtils;
 import utils.ConfigReader;
 import utils.DriverHelper;
 
-public class Hook {
+public class HookSteps {
 
     public WebDriver driver = DriverHelper.getDriver();
 

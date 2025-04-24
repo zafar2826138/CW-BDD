@@ -8,7 +8,7 @@ import pages.pages.sales.SalesPSPage;
 import utils.DriverHelper;
 
 
-public class Sales {
+public class SalesSteps {
     WebDriver driver = DriverHelper.getDriver();
     SalesClientPage salesClientPage = new SalesClientPage(driver);
     SalesPSPage salesPSPage = new SalesPSPage(driver);
